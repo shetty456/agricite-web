@@ -72,7 +72,7 @@ export default function Testimonials() {
           <div className="inline-flex items-center gap-4 bg-white p-4 rounded-lg shadow">
             <div className="text-4xl font-bold text-green-600">10,000+</div>
             <div className="text-left">
-              <div className="font-semibold">Active Students</div>
+              <div className="font-semibold text-black">Active Students</div>
               <div className="text-sm text-gray-500">From across Karnataka</div>
             </div>
           </div>
